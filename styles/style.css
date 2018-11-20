@@ -1,0 +1,44 @@
+body {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+html {
+  background-color: #F9F2E1;
+
+}
+img {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+    color:#000000;
+    font-size: 32px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+h2 {
+    color:#00722A;
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+p1 {
+    color:#BB001F;
+    font-size: 64px;
+    font-family: 'Kaushan Script', cursive;
+    text-align: left;
+}
+ul {
+    color:#000000;
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: left;
+}
+p2 {
+    color:#FFDE00;
+    font-size: 24px;
+    font-family: 'Boogaloo', cursive;
+    text-align: center;
